@@ -1,10 +1,10 @@
-[Adblock Plus]
+[IP Blocklist]
 ! Title: DueSky's Block List
 ! Description: Automated blocklist generated from perimeter firewall telemetry. Contains inbound sources flagged for persistent reconnaissance, port scanning, and probing unmapped services. Intended for passive defense and perimeter filtering; entries reflect unsolicited inbound traffic rather than client-side browsing activity.
 ! Note: This should be a low risk blocker. Updated every 24 hours.
-! Last modified: 02 Oct 2026 15:15 UTC
-! Version: 2026.1002.1515
-! Number of entries: 5469
+! Last modified: 02 Oct 2026 15:27 UTC
+! Version: 2026.1002.1527
+! Number of entries: 5470
 !
 100.16.42.132
 100.28.153.226
@@ -2266,6 +2266,7 @@
 195.230.103.250
 195.24.207.184
 195.250.79.2
+198.11.181.143
 198.235.24.100
 198.235.24.101
 198.235.24.102
