@@ -2,8 +2,8 @@
 ! Title: DueSky's Block List
 ! Description: Automated blocklist generated from perimeter firewall telemetry. Contains inbound sources flagged for persistent reconnaissance, port scanning, and probing unmapped services. Intended for passive defense and perimeter filtering; entries reflect unsolicited inbound traffic rather than client-side browsing activity.
 ! Note: This should be a low risk blocker. Updated every 24 hours.
-! Last modified: 02 Oct 2026 15:27 UTC
-! Version: 2026.1002.1527
+! Last modified: 02 Oct 2026 15:30 UTC
+! Version: 2026.1002.1530
 ! Number of entries: 5470
 !
 100.16.42.132
